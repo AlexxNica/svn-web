@@ -1,6 +1,8 @@
 2006-02-01  Ross Golder  <ross@golder.org>
 
-	* Added a 'for more information' link to the wiki notes page.
+	* robots.txt: Added.
+	* index.html: Added a 'for more information' link to the wiki
+	notes page.
 
 2005-11-05  Ross Golder  <ross@golder.org>
 
