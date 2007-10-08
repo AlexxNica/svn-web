@@ -1,3 +1,7 @@
+2007-10-08  Olav Vitters  <olav@bkor.dhs.org>
+
+	* index.html: s/viewcvs/viewvc/
+
 2007-10-08  Frederic Peters  <fpeters@0d.be>
 
 	* css/layout.css, css/style.css, index.html: updated to new GNOME look.
