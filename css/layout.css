@@ -360,16 +360,16 @@ ul.toc li a:hover {
 
 
 #header {
-	background: #729FCF url(code.png) 15px 10px no-repeat;
+	background: #729FCF url(applications-development.png) 10px 2px no-repeat;
 	float: left;
 	width: 100%;
 	font-size: 75%;
 }
 
 #header h1 {
-	float: left;
+	position: absolute;
 	margin: 0;
-	margin-left: 10px; 
+	margin-left: 45px; 
 	padding-top: 5px;
 	font-size: 160%;
 	color: #eeeeec;
@@ -381,6 +381,7 @@ ul.toc li a:hover {
 	margin: 0;
 	padding: 0;
 	margin-top: 5px;
+	float: left;
 }
 
 #portal-globalnav {

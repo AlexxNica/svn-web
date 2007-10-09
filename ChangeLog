@@ -1,5 +1,11 @@
 2007-10-09  Frederic Peters  <fpeters@0d.be>
 
+	* css/layout.css, index.html: fixed gray line at the bottom of headed
+	and added a icon (hardhat) (closes: #485113), added favicon (standard
+	GNOME foot) (closes: #485109)
+
+2007-10-09  Frederic Peters  <fpeters@0d.be>
+
 	* css/star.png: lightened and rounded star.
 
 2007-10-09  Frederic Peters  <fpeters@0d.be>
