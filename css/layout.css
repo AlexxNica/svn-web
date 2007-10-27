@@ -2,7 +2,6 @@
 body {
 	margin: 0px;
 	background-color: white;
-	font-family: sans-serif;
 	color: black;
 }
 
@@ -243,7 +242,6 @@ div.code {
 body {
 	margin: 0px;
 	padding: 0px;
-	font-family: sans-serif;
 	background: white url(star.png) -100px -200px no-repeat;
 	height: 101%;
 }
