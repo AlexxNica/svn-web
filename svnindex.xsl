@@ -21,22 +21,68 @@
         </title>
         <link href="css/layout.css" rel="stylesheet" type="text/css" media="screen"/>
         <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+        <link rel="icon" type="image/png" href="http://www.gnome.org/img/logo/foot-16.png"/>
+        <link rel="SHORTCUT ICON" type="image/png" href="http://www.gnome.org/img/logo/foot-16.png"/>
       </head>
       <body>
-        <div class="svn">
+  <!-- site header -->
+  <div id="page">
+    <ul id="general">
+      <li id="siteaction-gnome_home" class="home">
+        <a href="http://www.gnome.org/" title="Home">Home</a>
+      </li>
+      <li id="siteaction-gnome_news">
+
+        <a href="http://news.gnome.org" title="News">News</a>
+      </li>
+      <li id="siteaction-gnome_projects">
+        <a href="http://www.gnome.org/projects/" title="Projects">Projects</a>
+      </li>
+      <li id="siteaction-gnome_art">
+        <a href="http://art.gnome.org" title="Art">Art</a>
+
+      </li>
+      <li id="siteaction-gnome_support">
+        <a href="http://www.gnome.org/support/" title="Support">Support</a>
+      </li>
+      <li id="siteaction-gnome_development">
+        <a href="http://developer.gnome.org" title="Development">Development</a>
+      </li>
+      <li id="siteaction-gnome_community">
+
+        <a href="http://www.gnome.org/community/" title="Community">Community</a>
+      </li>
+    </ul>
+    <div id="header">
+      <h1>
+        GNOME Subversion source code repository
+      </h1>
+      <div id="tabs">
+        <ul id="portal-globalnav">
+
+          <li id="portaltab-root" class="selected">
+            <a href="/"><span>Home</span></a>
+          </li>
+          <li><a href="/viewvc/"><span>ViewVC Interface</span></a></li>
+          <li><a href="http://live.gnome.org/Subversion"><span>Subversion wiki page</span></a></li>
+        </ul>
+      </div> <!-- end of #tabs -->
+
+    </div> <!-- end of #header -->
+  </div>
+<!-- end site header -->
+  <div class="body">
+    <div id="content" class="text-content">
+
           <xsl:apply-templates/>
-        </div>
-        <div class="footer">
-          <xsl:text>Powered by </xsl:text>
-          <xsl:element name="a">
-            <xsl:attribute name="href">
-              <xsl:value-of select="@href"/>
-            </xsl:attribute>
-            <xsl:text>Subversion</xsl:text>
-          </xsl:element>
-          <xsl:text> </xsl:text>
-          <xsl:value-of select="@version"/>
-        </div>
+    </div>
+    <div id="footer">
+      Copyright &copy; 2005, 2006, 2007 <a href="http://www.gnome.org/">The GNOME Project</a>.
+      <br />
+      <a href="http://validator.w3.org/check/referer">Optimised</a> for <a href="http://www.w3.org/">standards</a>.
+      Hosted by <a href="http://www.canonical.com/">Canonical</a>.
+    </div>
+  </div>
       </body>
     </html>
   </xsl:template>

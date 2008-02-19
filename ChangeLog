@@ -1,5 +1,9 @@
 2008-02-19  Olav Vitters  <olav@bkor.dhs.org>
 
+	* svnindex.xsl: Add GNOME look.
+
+2008-02-19  Olav Vitters  <olav@bkor.dhs.org>
+
 	* svnindex.xsl: Add basic SVN index file.
 
 2007-11-24  Olav Vitters  <olav@bkor.dhs.org>
