@@ -19,8 +19,8 @@
           </xsl:if>
           <xsl:value-of select="index/@path"/>
         </title>
-        <link href="css/layout.css" rel="stylesheet" type="text/css" media="screen"/>
-        <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="/css/layout.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="/css/style.css" rel="stylesheet" type="text/css" media="all"/>
         <link rel="icon" type="image/png" href="http://www.gnome.org/img/logo/foot-16.png"/>
         <link rel="SHORTCUT ICON" type="image/png" href="http://www.gnome.org/img/logo/foot-16.png"/>
       </head>
