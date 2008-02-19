@@ -77,7 +77,7 @@
           <xsl:apply-templates/>
     </div>
     <div id="footer">
-      Copyright &copy; 2005, 2006, 2007 <a href="http://www.gnome.org/">The GNOME Project</a>.
+      Copyright © 2005, 2006, 2007 <a href="http://www.gnome.org/">The GNOME Project</a>.
       <br />
       <a href="http://validator.w3.org/check/referer">Optimised</a> for <a href="http://www.w3.org/">standards</a>.
       Hosted by <a href="http://www.canonical.com/">Canonical</a>.
