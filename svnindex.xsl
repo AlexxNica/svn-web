@@ -65,6 +65,7 @@
           </li>
           <li><a href="/viewvc/"><span>ViewVC Interface</span></a></li>
           <li><a href="http://live.gnome.org/Subversion"><span>Subversion wiki page</span></a></li>
+          <li><a href="http://bzr-mirror.gnome.org/"><span>Bzr Mirror</span></a></li>
         </ul>
       </div> <!-- end of #tabs -->
 
