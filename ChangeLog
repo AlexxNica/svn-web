@@ -1,3 +1,10 @@
+2008-07-28  Olav Vitters  <olav@bkor.dhs.org>
+
+	Link to Playground, not the mirror.
+
+	* index.html:
+	* svnindex.xsl:
+
 2008-06-20  Olav Vitters  <olav@bkor.dhs.org>
 
 	* index.html:

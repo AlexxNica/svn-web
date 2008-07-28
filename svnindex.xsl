@@ -65,7 +65,7 @@
           </li>
           <li><a href="/viewvc/"><span>ViewVC Interface</span></a></li>
           <li><a href="http://live.gnome.org/Subversion"><span>Subversion wiki page</span></a></li>
-          <li><a href="http://bzr-mirror.gnome.org/"><span>Bzr Mirror</span></a></li>
+          <li><a href="http://bzr-playground.gnome.org/"><span>Bzr Playground</span></a></li>
         </ul>
       </div> <!-- end of #tabs -->
 
@@ -78,7 +78,7 @@
           <xsl:apply-templates/>
     </div>
     <div id="footer">
-      Copyright © 2005, 2006, 2007 <a href="http://www.gnome.org/">The GNOME Project</a>.
+      Copyright © 2005 - 2008<a href="http://www.gnome.org/">The GNOME Project</a>.
       <br />
       <a href="http://validator.w3.org/check/referer">Optimised</a> for <a href="http://www.w3.org/">standards</a>.
       Hosted by <a href="http://www.canonical.com/">Canonical</a>.
